@@ -20,7 +20,7 @@ header {
 /* Navi */
 .nav {
   margin: 0 5%;
-  background: linear-gradient(to right, #f9d5ec, #dfe9f3);
+  background: linear-gradient(to right, #afdce3, #7dd7de);
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   border-radius: 12px;
   overflow: visible;
@@ -65,7 +65,7 @@ header {
 
 
 .nav ul li:hover a {
-  background: linear-gradient(to right, #f9d5ec, #dfe9f3);
+  background: linear-gradient(to right, #b5e7f0, #6fd5da);
   color: white;
 }
 
@@ -120,7 +120,7 @@ header {
   position: fixed;
   top: 15px;
   right: 20px;
-  background: linear-gradient(to right, #f9d5ec, #dfe9f3);
+  background: linear-gradient(to right, #82dcdc, #71d7d7);
   border: none;
   font-size: 24px;
   padding: 10px 15px;
